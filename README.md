@@ -1,6 +1,7 @@
 # AishwaryaSalimath-KBTM-Assement
 
--------- Kanban Board Task Management -----------------
+-------- Kanban Board Task Management ---------------
+
 Objective:
 
 Develop a Kanban board inspired by platforms like Trello for task management. The application
